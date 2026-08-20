@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Informasi Koperasi Sekolah",
+  "description": "Sistem pengelolaan seragam, atribut, kasir/transaksi, stok masuk & keluar, laporan, serta modul pengujian Blackbox dan dokumentasi Bab 4 untuk koperasi sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
